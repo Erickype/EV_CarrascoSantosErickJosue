@@ -1,2 +1,4 @@
 Erick Josué
 Carrasco Santos
+JS, java, php, c++
+mysql, sql server, oracle
